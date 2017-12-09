@@ -3,7 +3,9 @@
 <!-- (check one with "x") -->
 - [ ] bug report
 - [ ] feature request
-- [ ] other <!--(Please do not submit support requests here - see above)-->
+- [ ] other
+
+**File:**
 
 **Current behavior:**
 <!-- Describe how the bug manifests / how the current features are insufficient. -->
