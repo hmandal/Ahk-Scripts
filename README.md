@@ -30,7 +30,7 @@ Useful AutoHotkey scripts
 - Todo
 	- [ ] Improve stability and crashes.
 	- [ ] Extend to image and other file types.
-- Credits: [https://autohotkey.com/board/topic/18929-clipboard-log-and-scroll-through-passed-clipboard-entrys/]
+- Credits: https://autohotkey.com/board/topic/18929-clipboard-log-and-scroll-through-passed-clipboard-entrys/
 
 # KeybMirror.ahk
 - Description
@@ -41,4 +41,4 @@ Useful AutoHotkey scripts
 	- Modifier keys such as shift or control can be used in conjuction with Half-qwerty.
 - Utility 
 	-  Half-QWERTY: One-handed Typing
-- Credits: [https://autohotkey.com/board/topic/1257-half-qwerty-one-handed-typing/]
+- Credits: https://autohotkey.com/board/topic/1257-half-qwerty-one-handed-typing/
