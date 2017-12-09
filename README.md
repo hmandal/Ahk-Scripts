@@ -1,2 +1,2 @@
 # Ahk-Scripts
-AutoHotkey scripts created by me
+Useful AutoHotkey scripts
